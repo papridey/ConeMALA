@@ -1,12 +1,7 @@
-__MACOSX/
-.DS_Store
-.ipynb_checkpoints/
+outputs/
+paper_outputs/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.npy
-*.npz
-.env
-venv/
+.DS_Store
 .venv/
+*.log

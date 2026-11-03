@@ -1,29 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
-title: "k-lorentzian-cone-sampling"
-type: software
+message: "If you use this code, please cite the paper."
+title: "ConeMALA: Exact and Unit-Invariant Langevin Sampling for Uncertainty Quantification in Matrix-Weighted Graphs"
 authors:
   - family-names: Dey
     given-names: Papri
-repository-code: "https://github.com/papridey/k-lorentzian-cone-sampling"
-url: "https://github.com/papridey/k-lorentzian-cone-sampling"
+    affiliation: "Department of Applied Mathematics, University of California, Santa Cruz"
+type: software
 license: MIT
-keywords:
-  - Riemannian MALA
-  - manifold MCMC
-  - affine-invariant metric
-  - SPD cone
-  - log-Sobolev inequality
-  - Lorentzian polynomials
-  - convex cones
-version: 0.1.0
-date-released: 2026-03-18
-preferred-citation:
-  type: software
-  authors:
-    - family-names: Dey
-      given-names: Papri
-  title: "k-lorentzian-cone-sampling: geometry-aware sampling on SPD cones"
-  version: 0.1.0
-  year: 2026
-  url: "https://github.com/papridey/k-lorentzian-cone-sampling"
+version: "1.0"
+date-released: "2026-11-03"
+doi: "10.5281/zenodo.19103698"
+repository-code: "https://github.com/papridey/k-lorentzian-cone-sampling"
